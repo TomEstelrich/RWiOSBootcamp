@@ -2,7 +2,7 @@
 <img src="./Assets/W00_Bootcamp.png"/>
 <h1>Ray Wenderlich iOS Bootcamp [Summer 2020]</h1>
 
-[![](https://img.shields.io/badge/@BEstelrich-1A94E0.svg?logoColor=white&logo=twitter)][Twitter]
+[![](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white)][Twitter]
 
 
 
@@ -157,4 +157,4 @@ Despite the fact of being a one week project, it was a lot of fun to build my fi
 	
 <!-- FOOTER -->
 <!-- Permanent links -->
-[Twitter]: https://twitter.com/BEstelrich
+[Twitter]: https://twitter.com/TomEstelrich
