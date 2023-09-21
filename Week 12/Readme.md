@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="../Assets/W12_AppIcon.png" width="60" align="right"/>
+<img src="../.assets/W12_AppIcon.png" width="60" align="right"/>
 <h1>Week 12. Capstone project: Space Xploration</h1>
 
 [![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg?longCache=true&style=flat&logo=swift)](https://www.swift.org)
@@ -34,15 +34,15 @@ Finally we have mission launchpads and landpads with their respective details an
 Those are the most relevant screenshots of the app.
 <p align="left" >
 	<a href="https://apps.apple.com/app/space-xploration/id1530580909">
-	<img src="../Assets/AppStoreBadge.png" width="125"/>
+	<img src="../.assets/AppStoreBadge.png" width="125"/>
 </p>
 
 <p align="left">
-	<img src="../Assets/W12_Screenshot1.png" height="500"/>
-	<img src="../Assets/W12_Screenshot2.png" height="500"/>
-	<img src="../Assets/W12_Screenshot3.png" height="500"/>
-	<img src="../Assets/W12_Screenshot4.png" height="500"/>
-    <img src="../Assets/W12_Screenshot5.png" height="500"/>
+	<img src="../.assets/W12_Screenshot1.png" height="500"/>
+	<img src="../.assets/W12_Screenshot2.png" height="500"/>
+	<img src="../.assets/W12_Screenshot3.png" height="500"/>
+	<img src="../.assets/W12_Screenshot4.png" height="500"/>
+    <img src="../.assets/W12_Screenshot5.png" height="500"/>
 </p>
 
 <!-- Footer -->

@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="../Assets/W11_AppIcon.png" width="60" align="right"/>
+<img src="../.assets/W11_AppIcon.png" width="60" align="right"/>
 <h1>Week 11. Animation, Xcode tips and tricks</h1>
 
 [![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg?longCache=true&style=flat&logo=swift)](https://www.swift.org)
@@ -22,7 +22,7 @@ In order to add multiple and independent animations to the same object we have u
 This is a quick demo of animations contained in the app.
 
 <p align="left">
-	<img src="../Assets/W11_AppPreview1.gif" height="500"/>
+	<img src="../.assets/W11_AppPreview1.gif" height="500"/>
 </p>
 
 

@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="../Assets/W03_AppIcon.png" width="60" align="right"/>
+<img src="../.assets/W03_AppIcon.png" width="60" align="right"/>
 <h1>Week 03. Swift functions and types</h1>
 
 [![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg?longCache=true&style=flat&logo=swift)](https://www.swift.org)
@@ -26,8 +26,8 @@ Finally, an additional protocol called `Roundable` is set to define any view wit
 Those are the most relevant screenshots of the app.
 
 <p align="left">
-	<img src="../Assets/W03_Screenshot1.png" height="500"/>
-	<img src="../Assets/W03_Screenshot2.png" width="500"/>
+	<img src="../.assets/W03_Screenshot1.png" height="500"/>
+	<img src="../.assets/W03_Screenshot2.png" width="500"/>
 </p>
 
 

@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="../Assets/W05_AppIcon.png" width="60" align="right"/>
+<img src="../.assets/W05_AppIcon.png" width="60" align="right"/>
 <h1>Week 05. Table views</h1>
 
 [![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg?longCache=true&style=flat&logo=swift)](https://www.swift.org)
@@ -22,10 +22,10 @@ Posts are sorted by date by default but they can be **reordered or deleted** as 
 Those are the most relevant screenshots of the app.
 
 <p align="left">
-	<img src="../Assets/W05_Screenshot1.png" height="500"/>
-	<img src="../Assets/W05_Screenshot2.png" height="500"/>
-	<img src="../Assets/W05_Screenshot3.png" height="500"/>
-	<img src="../Assets/W05_Screenshot4.png" height="500"/>
+	<img src="../.assets/W05_Screenshot1.png" height="500"/>
+	<img src="../.assets/W05_Screenshot2.png" height="500"/>
+	<img src="../.assets/W05_Screenshot3.png" height="500"/>
+	<img src="../.assets/W05_Screenshot4.png" height="500"/>
 </p>
 
 

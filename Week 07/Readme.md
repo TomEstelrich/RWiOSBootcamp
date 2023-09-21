@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="../Assets/W07_AppIcon.png" width="60" align="right"/>
+<img src="../.assets/W07_AppIcon.png" width="60" align="right"/>
 <h1>Week 07. SwiftUI</h1>
 
 [![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg?longCache=true&style=flat&logo=swift)](https://www.swift.org)
@@ -22,9 +22,9 @@ Data has been passed through the different views by conforming the model to the 
 Those are the most relevant screenshots of the app.
 
 <p align="left">
-	<img src="../Assets/W07_Screenshot1.png" height="500"/>
-	<img src="../Assets/W07_Screenshot2.png" height="500"/>
-	<img src="../Assets/W07_Screenshot3.png" height="500"/>
+	<img src="../.assets/W07_Screenshot1.png" height="500"/>
+	<img src="../.assets/W07_Screenshot2.png" height="500"/>
+	<img src="../.assets/W07_Screenshot3.png" height="500"/>
 </p>
 
 

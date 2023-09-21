@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="../Assets/W06_AppIcon.png" width="60" align="right"/>
+<img src="../.assets/W06_AppIcon.png" width="60" align="right"/>
 <h1>Week 06. Collection views</h1>
 
 [![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg?longCache=true&style=flat&logo=swift)](https://www.swift.org)
@@ -22,8 +22,8 @@ This proposal has been completed using the collection-view **Compositional Layou
 Those are the most relevant screenshots of the app.
 
 <p align="left">
-	<img src="../Assets/W06_Screenshot1.png" height="500"/>
-	<img src="../Assets/W06_Screenshot2.png" height="500"/>
+	<img src="../.assets/W06_Screenshot1.png" height="500"/>
+	<img src="../.assets/W06_Screenshot2.png" height="500"/>
 </p>
 
 
