@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="../Assets/W09_AppIcon.png" width="60" align="right"/>
+<img src="../.assets/W09_AppIcon.png" width="60" align="right"/>
 <h1>Week 09. Networking and design patters</h1>
 
 [![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg?longCache=true&style=flat&logo=swift)](https://www.swift.org)
@@ -25,9 +25,9 @@ Finally, the app allows to **play/pause background music** during the game and t
 Those are the most relevant screenshots of the app.
 
 <p align="left">
-	<img src="../Assets/W09_Screenshot1.png" height="500"/>
-	<img src="../Assets/W09_Screenshot2.png" height="500"/>
-	<img src="../Assets/W09_Screenshot3.png" height="500"/>
+	<img src="../.assets/W09_Screenshot1.png" height="500"/>
+	<img src="../.assets/W09_Screenshot2.png" height="500"/>
+	<img src="../.assets/W09_Screenshot3.png" height="500"/>
 </p>
 
 

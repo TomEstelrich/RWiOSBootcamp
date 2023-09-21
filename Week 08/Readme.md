@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="../Assets/W08_AppIcon.png" width="60" align="right"/>
+<img src="../.assets/W08_AppIcon.png" width="60" align="right"/>
 <h1>Week 08. Saving data</h1>
 
 [![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg?longCache=true&style=flat&logo=swift)](https://www.swift.org)
@@ -28,11 +28,11 @@ Finally, **rating** is an additional feature that allows any sandwich to be rate
 Those are the most relevant screenshots of the app.
 
 <p align="left">
-	<img src="../Assets/W08_Screenshot1.png" height="500"/>
-	<img src="../Assets/W08_Screenshot2.png" height="500"/>
-	<img src="../Assets/W08_Screenshot3.png" height="500"/>
-	<img src="../Assets/W08_Screenshot4.png" height="500"/>
-	<img src="../Assets/W08_Screenshot5.png" height="500"/>
+	<img src="../.assets/W08_Screenshot1.png" height="500"/>
+	<img src="../.assets/W08_Screenshot2.png" height="500"/>
+	<img src="../.assets/W08_Screenshot3.png" height="500"/>
+	<img src="../.assets/W08_Screenshot4.png" height="500"/>
+	<img src="../.assets/W08_Screenshot5.png" height="500"/>
 </p>
 
 

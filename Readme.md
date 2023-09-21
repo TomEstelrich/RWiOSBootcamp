@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img src="./Assets/W00_Bootcamp.png"/>
+<img src="./.assets/W00_Bootcamp.png"/>
 <h1>Ray Wenderlich iOS Bootcamp [Summer 2020]</h1>
 
 [![](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white)][Twitter]
@@ -37,13 +37,13 @@ Despite the fact of being a one week project, it was a lot of fun to build my fi
 
 <p align="left" >
 	<a href="https://apps.apple.com/app/space-xploration/id1530580909">
-	<img src="./Assets/AppStoreBadge.png" width="125">
+	<img src="./.assets/AppStoreBadge.png" width="125">
 	</a>
 </p>
 
 <p align="left">
-	<img src="./Assets/W12_Screenshot1.png" height="500"/>
-	<img src="./Assets/W12_Screenshot2.png" height="500"/>
+	<img src="./.assets/W12_Screenshot1.png" height="500"/>
+	<img src="./.assets/W12_Screenshot2.png" height="500"/>
 </p>
 
 
